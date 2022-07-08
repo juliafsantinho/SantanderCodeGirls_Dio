@@ -1,0 +1,46 @@
+Comandos básicos para um bom desempenho no terminal
+
+•	dir  -> LISTA DE DIRETÓRIOS (WINDOWS)
+•	ls  -> LISTA DE DIRETÓRIOS (Linux/Mac)
+•	cd / (pasta) -> NAVEGAR ENTRE AS PASTAS (WINDOWS/ Linux/Mac)
+•	cd .. -> RETROCEDER UM NIVEL DA NAVEGAÇÃO (WINDOWS/ Linux/Mac)
+•	cls -> LIMPAR O TERMINAL (WINDOWS)
+•	clear -> LIMPAR O TERMINAL (Linux/Mac) ou ctrl+L
+•	Usar o tab no Windows autocompleta a palavra da pasta.
+•	mkdir (nome da nova pasta) -> cria nova pasta (WINDOWS/ Linux/Mac)
+•	echo (palavra ou frase) -> printa no terminal a palavra ou frase (WINDOWS)
+•	“>” -> Redirecionador de fluxo (WINDOWS)
+EXEMPLO: 
+C:\(pasta)>echo (texto) > (nomedoarquivo).txt 
+•	del (nome da pasta) -> deleta tudo que tem na pasta e não a pasta (WINDOWS)
+•	rmdir (pasta) /S /Q -> Remove a pasta com todos os arquivos de dentro. (WINDOWS)
+
+Tópicos fundamentais para entender o funcionamento do Git
+
+- SHA1 -> Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA). A encriptação gera conjunto de caracteres identificador de 40 dígitos.
+
+Objetos internos do Git
+ 
+BLOBS 
+
+TREES – (Arvores - > Armazenando e apontando para tipos de blobs diferentes e commits). Se mudarmos um arquivo, por conseqüência estaremos mudando toda a incriptação dele.
+ 
+COMMITS – 
+ 
+Chave SSH e Token
+Chave SSH -> Conexão segura e incriptada entre duas maquinas (nossa maquina local e o servidor do github). 
+Local da chave: settings -> SSH and GPG Keys -> New SSH Keys -> preencher no GitBash
+ 
+ 
+A chave será gerada:
+ 
+Para autorizar o uso da chave:
+
+Token de acesso pessoal
+Developer settings -> Personal Access tokens -> Generate new token-> preencher
+ 
+Vai gerar o token, mas salve em um bloco de notas, pois o mesmo não é exibido mais: 
+
+
+ 
+

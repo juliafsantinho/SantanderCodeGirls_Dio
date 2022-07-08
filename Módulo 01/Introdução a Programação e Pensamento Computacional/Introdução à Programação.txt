@@ -1,0 +1,49 @@
+Introdução à Programação e Pensamento Computacional
+Pilares
+- Decomposição: dividir o problema em partes para procurar mais detalhadamente.
+- Padrões: compressão de dados, é identificado um padrão e separado por similaridades.
+	*Como um computador reconhece os padrões? 
+Por comparação.
+- Abstração: Se classifica em características, pontos essenciais e generalizar e/ou detalhar. Abstrair apenas o necessário. Tornar o conceito geral para que seja reutilizável.
+	* Conceitos baseados em abstrações:
+	-> Algoritmos de pesquisa e ordenação (Merge sort, Clusteting, Busca binária);
+	-> Tipos abstratos de dados (Árvore, Lista e Grafos);
+	-> Máquinas de estado finito;
+	-> Linguagem de programação;
+	-> Comunicação Síncrona e Assíncrona;
+ 	-> Paralelismo;
+	-> Cliente X Servidor;
+	-> Entre outros.
+- Algoritmos: Passo a passo, comandos. 
+	*Como construir um algoritmo? Construção e refinamento do algoritmo.
+		NARRATIVA – Utilização de linguagem natural, podendo ser ambígua.
+		FLUXOGRAMA – Estrutura gráfica com a utilização de símbolos pré-definidos.
+		PSEUDOCÓDIGO – Portugol para se acostumar com a programação.
+	-> Compreensão do problema;
+	-> Definição dados de entrada;
+	-> Definição de processamento;
+	-> Definição de dados de saída;
+	-> Utilizar um método de construção;
+	-> Teste e diagnóstico.
+Exemplo 01: Com a multiplicação de dois números: 
+Passo1 – receber os valores
+Passo2 – multiplica
+Passo3 – imprime o resultado
+Fluxograma:  
+
+Exemplo 02: Com a média de alunos:
+Passo1 – recebe os valores
+Passo2 – realiza a operação
+Passo3 – regra de aprovação
+Passo4 – imprime o resultado
+ 
+Introdução a lógica de programação
+
+O que é a lógica?
+Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+A definição é aplicada ao meu cotidiano.
+
+Técnicas de lógica de programação:
+- Técnica linear -> modelo de desenvolvimento e resolução , seqüencial, única dimensão, recursos limitados. 
+- Técnica estruturada -> pode ter mais de uma opção o seqüencial, posso tomar café ou suco.
+- Técnica modular -> separado em módulo, o acordar, a bebida que for tomar ou o modulo de tomar o café.
