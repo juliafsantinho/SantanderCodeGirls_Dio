@@ -15,7 +15,7 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     
 2.  Começando a Programar em Java 
     - Dominando IDEs Java ✔
-    - Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+    - Variáveis, Tipos de Dados e Operadores Matemáticos em Java ✔
     - Entendendo Métodos Java
     - Lógica Condicional e Controle de Fluxos em Java
     - Estruturas de Repetição e Arrays em Java
