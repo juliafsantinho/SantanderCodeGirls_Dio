@@ -17,7 +17,7 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     - Dominando IDEs Java ✔
     - Variáveis, Tipos de Dados e Operadores Matemáticos em Java ✔
     - Entendendo Métodos Java ✔
-    - Lógica Condicional e Controle de Fluxos em Java
+    - Lógica Condicional e Controle de Fluxos em Java ✔
     - Estruturas de Repetição e Arrays em Java
     - Trabalhando com Collections Java
     - Desafio de código - Desafios Básicos Java - Code Girls Santander
