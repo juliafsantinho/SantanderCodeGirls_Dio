@@ -19,7 +19,7 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     - Entendendo Métodos Java ✔
     - Lógica Condicional e Controle de Fluxos em Java ✔
     - Estruturas de Repetição e Arrays em Java ✔
-    - Trabalhando com Collections Java 
+    - Trabalhando com Collections Java ✔
     - Desafio de código - Desafios Básicos Java - Code Girls Santander
     
 3.  Dominando Java 
