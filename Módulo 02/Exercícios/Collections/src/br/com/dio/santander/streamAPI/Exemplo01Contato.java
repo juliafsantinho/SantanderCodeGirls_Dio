@@ -81,8 +81,7 @@ public class Exemplo01Contato {
         Set<Map.Entry<Integer, Contato>> set1 = new TreeSet<>(Comparator.comparing(
                 cont -> cont.getValue().getNome()));
         set1.addAll(agenda.entrySet());
-        //imprimindo usando forEach
-        set1.forEach(entry -> System.out.println(entry.getKey() + " - " + entry.getValue().getNome()));
+        set1.forEach(entry -> System.out.println(entry.getKey() + " - " + entry.getValue().getNome())); //imprimindo usando forEach
 
     }
 }

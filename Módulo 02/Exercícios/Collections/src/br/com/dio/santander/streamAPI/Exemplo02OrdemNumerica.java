@@ -36,7 +36,7 @@ public class Exemplo02OrdemNumerica {
                 .map(Integer::parseInt)
                 .collect(Collectors.toList());
 
-        //.forEach(System.out::println);
+        numerosAleatorios1.forEach(System.out::println);
 
 
         System.out.println("\nPegue os números pares e maiores que 2 e coloque em uma lista:");
@@ -51,7 +51,7 @@ public class Exemplo02OrdemNumerica {
                 .collect(Collectors.toList());
         System.out.println(listParesMaioresQue2);
 
-        /*System.out.println("\nMostre a média dos números: ");
+       /* System.out.println("\nMostre a média dos números: ");
         numerosAleatorios1.stream()
                 .average()
                 .ifPresent(System.out::println);
