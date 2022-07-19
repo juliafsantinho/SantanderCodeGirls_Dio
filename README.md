@@ -25,7 +25,7 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
 3.  Dominando Java 
     - Programação Orientada a Objetos ✔
     - Praticando Orientação a Objetos com Java ✔
-    - Debigging Java
+    - Debigging Java ✔
     - Tratamento de Exceções em Java
     - Desafio de código - Desafios Intermediários Java - Code Girl Santander
     - Desafio de Projeto - Abstraindo um bootcamp usando OO em Java
