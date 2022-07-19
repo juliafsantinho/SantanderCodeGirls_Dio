@@ -13,17 +13,17 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     - Introdução ao Git e GitHub ✔
     - Desafio de Projeto - Git/GitHub ✔
     
-2.  Começando a Programar em Java 
+2.  Começando a Programar em Java ✅
     - Dominando IDEs Java ✔
     - Variáveis, Tipos de Dados e Operadores Matemáticos em Java ✔
     - Entendendo Métodos Java ✔
     - Lógica Condicional e Controle de Fluxos em Java ✔
     - Estruturas de Repetição e Arrays em Java ✔
     - Trabalhando com Collections Java ✔
-    - Desafio de código - Desafios Básicos Java - Code Girls Santander
+    - Desafio de código - Desafios Básicos Java - Code Girls Santander ✔
     
 3.  Dominando Java 
-    - Programação Orientada a Objetos
+    - Programação Orientada a Objetos ✔
     - Praticando Orientação a Objetos com Java
     - Debigging Java
     - Tratamento de Exceções em Java
