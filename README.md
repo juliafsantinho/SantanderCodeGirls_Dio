@@ -32,5 +32,5 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     
 4.  Introdução ao Spring Framework
     - Conhecendo os Principais Protocolos de Comunicação da Internet ✔
-    - Gerenciamento de Dependências e Build em Java com Maven
+    - Gerenciamento de Dependências e Build em Java com Maven ✔
     - Introdução ao Spring Framework
