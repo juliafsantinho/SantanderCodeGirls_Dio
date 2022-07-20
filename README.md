@@ -22,15 +22,15 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     - Trabalhando com Collections Java ✔
     - Desafio de código - Desafios Básicos Java - Code Girls Santander ✔
     
-3.  Dominando Java 
+3.  Dominando Java ✅
     - Programação Orientada a Objetos ✔
     - Praticando Orientação a Objetos com Java ✔
     - Debigging Java ✔
-    - Tratamento de Exceções em Java
-    - Desafio de código - Desafios Intermediários Java - Code Girl Santander
-    - Desafio de Projeto - Abstraindo um bootcamp usando OO em Java
+    - Tratamento de Exceções em Java ✔
+    - Desafio de código - Desafios Intermediários Java - Code Girl Santander ✔
+    - Desafio de Projeto - Abstraindo um bootcamp usando OO em Java ✔
     
 4.  Introdução ao Spring Framework
-    - Conhecendo os Principais Protocolos de Comunicação da Internet
+    - Conhecendo os Principais Protocolos de Comunicação da Internet ✔
     - Gerenciamento de Dependências e Build em Java com Maven
     - Introdução ao Spring Framework
