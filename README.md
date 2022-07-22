@@ -1,4 +1,4 @@
-# Santander Code Girls e DIO
+# 🔴 Santander Code Girls e DIO 🔴
 Repositório para a organização dos conteúdos, anotações e Desafio de projeto Git/Github.
 
 ## Modulos
@@ -30,7 +30,7 @@ Repositório para a organização dos conteúdos, anotações e Desafio de proje
     - Desafio de código - Desafios Intermediários Java - Code Girl Santander ✔
     - Desafio de Projeto - Abstraindo um bootcamp usando OO em Java ✔
     
-4.  Introdução ao Spring Framework
+4.  Introdução ao Spring Framework ✅
     - Conhecendo os Principais Protocolos de Comunicação da Internet ✔
     - Gerenciamento de Dependências e Build em Java com Maven ✔
-    - Introdução ao Spring Framework
+    - Introdução ao Spring Framework ✔
